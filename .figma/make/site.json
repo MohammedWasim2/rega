@@ -1,0 +1,10 @@
+{
+  "description": "Provides Kurdish language learning and translation tools to help users understand and communicate effectively in Kurdish.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
